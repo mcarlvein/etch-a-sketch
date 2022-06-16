@@ -1,0 +1,16 @@
+#etch-container {
+    max-width: 1180px;
+    margin: 0 auto;
+    display: grid;
+    /* grid-template-rows: repeat(16, 1fr); */
+    /* grid-template-columns: repeat(16, 1fr); */
+}
+
+#etch-container div {
+    aspect-ratio: 1;
+    background-color:aqua;
+}
+
+.coloured {
+    background-color: black;
+}
